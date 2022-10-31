@@ -1,6 +1,8 @@
 <ivy-module version="2.0">
     <info organisation="edu.cme.rdp" module="RDPTaxonomyTree"/>
     <dependencies>
-        <dependency org="junit" name="junit" rev="4.8.2"/>
+        <dependency org="junit" name="junit" rev="4.13.2"/>
+        <dependency org="org.hamcrest" name="hamcrest-core" rev="1.3"/>
+        <dependency org="org.hamcrest" name="hamcrest-library" rev="1.3"/>
     </dependencies>
 </ivy-module>
